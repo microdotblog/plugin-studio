@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "title": "Micro.blog Studio",
-  "description": "Adds support for video streaming and other extras.",
+  "title": "Video streaming",
+  "description": "Adds support for HTTP Live Streaming and other extras.",
   "includes": [
     "https://cdn.jsdelivr.net/npm/hls.js",
     "/js/studio.js"
