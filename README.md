@@ -1,3 +1,3 @@
-# Micro.blog Studio
+# Micro.blog video stremaing
 
-Micro.blog plug-in to support new feature.
+Plug-in to include HLS.js for HTTP Live Streaming. This will be auto-installed for your blog if you use `<video>` tags.
