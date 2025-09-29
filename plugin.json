@@ -3,7 +3,7 @@
   "title": "Micro.blog Studio",
   "description": "Adds support for video streaming and other extras.",
   "includes": [
-    "https://cdn.jsdelivr.net/npm/hls.js"
+    "https://cdn.jsdelivr.net/npm/hls.js",
     "/js/studio.js"
   ]
 }
